@@ -1,0 +1,8 @@
+mysql/data
+mysql/logs/*.log
+
+nginx/logs/*.log
+
+php/composer/*
+!php/composer/.keep
+php/logs/*.log
